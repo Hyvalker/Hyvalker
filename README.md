@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Hyvalker!
 
-<!--
-**Hyvalker/Hyvalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou **biólogo e mestrando em Biologia Molecular**, atualmente em **transição de carreira para Desenvolvimento de Software**.  
+💻 Tenho me dedicado ao **estudo de Java** com foco em **Programação Orientada a Objetos (POO)**, boas práticas e desenvolvimento de aplicações práticas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Java
+- **Conceitos:** POO, Herança, Polimorfismo, Collections, Exceptions, Threads, Streams API
+- **Ferramentas:** IntelliJ IDEA, Git/GitHub, Spring (aprendendo)
+- **Sistemas Operacionais:** Windows / Linux
+
+---
+
+## 📚 Atualmente estudando
+- Java SE e fundamentos avançados
+- UML e boas práticas de modelagem
+- Fundamentos de Spring Boot e SQL
+
+---
+
+## 🧠 Projetos em destaque
+- 🧾 [TaskManager](https://github.com/Hyvalker/TaskManager) – Aplicação de console para gerenciamento de tarefas com CRUD e persistência em arquivo texto.  
+
+---
+
+## 🌱 Sobre mim
+Tenho perfil analítico e curioso, com experiência prévia em **pesquisa científica e docência**, o que me ajuda a aprender rápido, resolver problemas complexos e documentar processos de forma clara.  
+Busco oportunidades para **atuar como desenvolvedor Java júnior**, contribuindo em projetos e evoluindo constantemente.
+
+---
+
+📫 **Vamos conversar!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyvalker/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyvalker)
