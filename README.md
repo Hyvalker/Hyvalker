@@ -7,7 +7,7 @@
 
 ## 🚀 Tecnologias & Ferramentas
 - **Linguagens:** Java
-- **Conceitos:** POO, Herança, Polimorfismo, Collections, Exceptions, Threads, Streams API
+- **Conceitos:** POO, Collections, Exceptions, Threads, Streams API
 - **Ferramentas:** IntelliJ IDEA, Git/GitHub, Spring (aprendendo)
 - **Sistemas Operacionais:** Windows / Linux
 
